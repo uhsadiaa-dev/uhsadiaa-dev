@@ -1,30 +1,27 @@
-# 👋 Hi, I'm Sadia!
+# Hi, I'm Sadia 👋
 
-🎓 **Computer Science & Technology Student**
-🐍 **Python Developer**
-🤖 **Aspiring Machine Learning Engineer**
+🎓 I'm a Computer Science & Technology student currently building my foundation in programming and software development.
 
-I'm currently building my foundation in programming through hands-on projects and continuous learning.
+🐍 I'm currently focused on Python and improving my problem-solving skills through practical projects.
 
-I enjoy turning ideas into small working projects and gradually challenging myself with more advanced concepts.
+🤖 My long-term goal is to become a Machine Learning Engineer.
 
 ## 🚀 Currently Learning
 
-* 🐍 Python
-* 🔢 NumPy
-* 📊 Data Analysis
-* 🗄️ SQL
-* 📐 Statistics & Mathematics
-* 🤖 Machine Learning
+* Python
+* NumPy
+* Data Analysis
+* SQL
+* Statistics
+* Machine Learning
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-**Programming**
+**Languages**
 
 * Python
 
 **Tools**
-
 * Git
 * GitHub
 
@@ -32,28 +29,29 @@ I enjoy turning ideas into small working projects and gradually challenging myse
 
 * NumPy
 * Pandas
-* SQL
 * Machine Learning
 
-## 📂 Some of My Projects
+## 📂 Projects
 
-🐱 **Mewmew Chatbot**
-A simple rule-based chatbot built with Python.
+I've built several Python projects while learning programming, including:
 
-🧮 **Python Projects**
-A collection of small Python projects created while learning programming fundamentals.
-
-My projects include calculators, games, converters, a to-do list, and other Python applications.
+* 🐱 Mewmew Chatbot
+* 🧮 Calculator
+* 🎯 Number Guessing Game
+* ⚖️ Weight Converter
+* 🌡️ Temperature Converter
+* ✊ Rock Paper Scissors
+* 📝 To-Do List
+* 🧠 Quiz Game
 
 ## 🎯 My Goal
 
-My long-term goal is to become a **Machine Learning Engineer** and build practical software that solves real-world problems.
+I'm working toward building practical software and gradually developing the skills needed for a career in Machine Learning Engineering.
 
-I'm currently focusing on strengthening my programming fundamentals before moving deeper into data science and machine learning.
-=====================================================================================================================================
-I'm still at the beginning of my journey, and this profile will grow as I learn, build, and improve.
+## 📈 Learning Journey
 
-### 🌱 Keep Learning. Keep Building. Keep Improving. 🚀
+I'm still at the beginning of my journey, so this profile will grow as I learn, build, and improve.
 
-Thanks for visiting my profile!
+Thanks for visiting! 🚀
+
 
