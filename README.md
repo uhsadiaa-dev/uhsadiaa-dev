@@ -20,7 +20,8 @@
 **Languages**
 
 * Python
-
+* numpy
+  
 **Tools**
 * Git
 * GitHub
